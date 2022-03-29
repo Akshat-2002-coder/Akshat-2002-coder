@@ -1,7 +1,7 @@
 # Hi, I am Akshat Bansal! Great to see you here! <img src="https://raw.githubusercontent.com/thepranaygupta/thepranaygupta/main/src/wave.gif" width="30px">
 <!-- Typing SVG by Akshat-2002-coder - https://github.com/Akshat-2002-coder/readme-typing-svg -->
 <p align="left">
-  <a href="https://github.com/Akshat-2002-coder/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,%20I%20am%20Kunal!;I%20Love%20to%20Explore%20Different%20things;I%20Love%20Coding%20❤;I%20Like%20to%20learn%20new%20Technologies.&font=Fira%20Code&left=true&width=440&height=45&color=61CC8C&vleft=true&size=22"></a>
+  <a href="https://github.com/Akshat-2002-coder/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,%20I%20am%20Akshat!;I%20Love%20to%20Explore%20Different%20things;I%20Love%20Coding%20❤;I%20Like%20to%20learn%20new%20Technologies.&font=Fira%20Code&left=true&width=440&height=45&color=61CC8C&vleft=true&size=22"></a>
 </p>
 <!--  -->
 I am Akshat Bansal, currently pursuing my B.Tech degree in Computer Science from [GLA UNIVERSITY, MATHURA]. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas.
@@ -10,7 +10,7 @@ I am Akshat Bansal, currently pursuing my B.Tech degree in Computer Science from
 - 🌱 I’m currently learning *Data Structures and Algorithms*
 - 👯 I’m looking to collaborate on *C/Python/Java/C++*
 - 🚀 I'm Interested in making *IOT Projects*
-- 💬 Ask me about *CS*
+- 💬 Ask me about *CS and EC*
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Akshat-2002-coder&label=Profile%20views&color=0e75b6&style=flat" alt="Akshat-2002-coder" /> </p>
 
@@ -57,21 +57,21 @@ I am Akshat Bansal, currently pursuing my B.Tech degree in Computer Science from
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)](https://nodejs.org/)<!-- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white) -->
 [![Numpy](https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&style=flat-square&logoColor=white)](https://numpy.org/)
 
-### Tools:
+<!-- ### Tools:
 
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&style=flat-square&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
-![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?style=flat-square&logo=heroku&logoColor=white)<!-- ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean) -->
+![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?style=flat-square&logo=heroku&logoColor=white)<!-- ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean) --> -->
 
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+<!-- ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) 
-
+ -->
 ## 📈 Stats
 
 <table>
