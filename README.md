@@ -6,7 +6,7 @@
 <!--  -->
 I am Akshat Bansal, currently pursuing my B.Tech degree in Computer Science from [GLA UNIVERSITY, MATHURA]. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas.
 
-- 🔭 I’m currently working on *Web Development*
+- 🔭 I’m currently working on *Android Development*
 - 🌱 I’m currently learning *Data Structures and Algorithms*
 - 👯 I’m looking to collaborate on *C/Python/Java/C++*
 - 🚀 I'm Interested in making *IOT Projects*
@@ -50,12 +50,12 @@ I am Akshat Bansal, currently pursuing my B.Tech degree in Computer Science from
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) -->
 
-### Libraries & Framework
+<!-- ### Libraries & Framework
 
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://reactjs.org/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)](https://getbootstrap.com/)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)](https://nodejs.org/)<!-- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white) -->
-[![Numpy](https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&style=flat-square&logoColor=white)](https://numpy.org/)
+[![Numpy](https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&style=flat-square&logoColor=white)](https://numpy.org/) -->
 
 <!-- ### Tools:
 
